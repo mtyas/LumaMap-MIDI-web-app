@@ -1,0 +1,5 @@
+{
+  "name": "LumaMap MIDI",
+  "description": "A browser-based MIDI projection mapping tool. Draw shapes on your screen, map them to MIDI notes, and create dynamic visual performances using your projector.",
+  "requestFramePermissions": []
+}
